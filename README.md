@@ -1,9 +1,3 @@
-# Gesture-Controlled-Fruit-Ninja-Game
-
-Here’s a detailed and professional **README.md** template for your **Gesture-Controlled Fruit Ninja Game** project:
-
----
-
 # Gesture-Controlled Fruit Ninja Game 🎮🍉
 
 This project is a **gesture-controlled version** of the classic *Fruit Ninja* game, implemented using Python. Players can slice falling fruits by using hand gestures tracked through their webcam. The game combines **computer vision** with **game development** by leveraging **Mediapipe**, **OpenCV**, and **Pygame**.
@@ -144,7 +138,7 @@ The game will launch, and the webcam feed will display. Use your index finger to
 ## Gameplay Video 📸
 
 ### Gameplay
-![Gameplay](https://your-image-url-example.com)
+![Gameplay](assets/gameplay.gif)
 
 ---
 
